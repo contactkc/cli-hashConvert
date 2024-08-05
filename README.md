@@ -1,5 +1,5 @@
 # Hash Converter CLI Application
-ava program that converts a user-provided word to a hash value using various hashing algorithms. The program supports MD5, SHA-1, and SHA-256 hashing algorithms. The generated hash values are saved to a text file for later reference.
+Java program that converts a user-provided word to a hash value using various hashing algorithms. The program supports MD5, SHA-1, and SHA-256 hashing algorithms. The generated hash values are saved to a text file for later reference.
 
 ![hashConvert-preview](/hashConvert-preview.png)
 

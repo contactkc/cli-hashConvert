@@ -18,7 +18,7 @@ Leverages Java's core libraries to create an interactive command-line interface 
 - File Operations
 - Random Number Generation
 - Hashing Algorithms
-- COntrol Flow and User Interaction
+- Control Flow and User Interaction
 - ANSI Escape Codes
 
 ## How to Use:
